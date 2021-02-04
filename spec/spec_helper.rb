@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "find_my_meds_CLI_gem"
+require "find_my_meds"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
